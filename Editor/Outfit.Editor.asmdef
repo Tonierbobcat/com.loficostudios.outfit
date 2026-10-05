@@ -1,0 +1,16 @@
+{
+    "name": "Outfit.Editor",
+    "rootNamespace": "MelodySuite.Outfit.Editor",
+    "references": [
+        "GUID:dbdb560e9adb83accbc550b084268fab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
